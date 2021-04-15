@@ -13,6 +13,9 @@ berikut ini hasil dari memasukkan kode pada pebuatan ordered list, unordered lis
 
 langkah selanjutnya memasukkan kode untuk membuat sebuah tabel dengan mengatur margin dan padding pada sel data dengan menambahkan kode atribut cellpadding dan cellspacing.karena pada modul kata teknik digabung menjadi satu maka kita menambahkan kode atribut rowspan dan colspan.
 
+![lab3 hasil2](https://user-images.githubusercontent.com/57024231/114885001-70061e00-9e30-11eb-8a5e-bdac2860735f.png)
+
+ini merupakan hasil dari membuat tabel sederhana yang sesuai dengan kode atribut pada modul pratikum 3. 
 
 
 maka kita harus mengeditnya dengan membuat file baru dengan nama 
