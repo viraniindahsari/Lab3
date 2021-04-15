@@ -17,6 +17,9 @@ langkah selanjutnya memasukkan kode untuk membuat sebuah tabel dengan mengatur m
 
 ini merupakan hasil dari membuat tabel sederhana yang sesuai dengan kode atribut pada modul pratikum 3. 
 
+![lab3 html3](https://user-images.githubusercontent.com/57024231/114885521-edca2980-9e30-11eb-9166-2a1043106f58.png)
 
-maka kita harus mengeditnya dengan membuat file baru dengan nama 
+langkah selanjutnya maka kita harus mengeditnya dengan membuat file baru dengan nama lab3_form.html kemudian menambahkan kode sederhana untuk membuat tabel form.
+
+
 
