@@ -25,6 +25,12 @@ langkah selanjutnya maka kita harus mengeditnya dengan membuat file baru dengan 
 
 nah ini merupakan hasil dari membuat form.
 
+![lab3 html4](https://user-images.githubusercontent.com/57024231/114886784-0981ff80-9e32-11eb-9f5a-6b2f11ce6a33.png)
+
+langkah selanjutnya saya akan menambahkan style pada form agar tampilan terlihat lebih menarik dengan menggunakan css.
+
+
+
 
 
 
