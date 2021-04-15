@@ -21,5 +21,10 @@ ini merupakan hasil dari membuat tabel sederhana yang sesuai dengan kode atribut
 
 langkah selanjutnya maka kita harus mengeditnya dengan membuat file baru dengan nama lab3_form.html kemudian menambahkan kode sederhana untuk membuat tabel form.
 
+![lab3 hasil 3](https://user-images.githubusercontent.com/57024231/114886359-a7c19580-9e31-11eb-9dde-b16df1302871.png)
+
+nah ini merupakan hasil dari membuat form.
+
+
 
 
