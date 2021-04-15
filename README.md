@@ -29,6 +29,10 @@ nah ini merupakan hasil dari membuat form.
 
 langkah selanjutnya saya akan menambahkan style pada form agar tampilan terlihat lebih menarik dengan menggunakan css.
 
+![lab3 hasil4](https://user-images.githubusercontent.com/57024231/114887283-81e8c080-9e32-11eb-8a31-a69073c00e29.png)
+
+ini hasil membuat form dengan css.
+
 
 
 
